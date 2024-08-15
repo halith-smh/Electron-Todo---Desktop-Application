@@ -1,5 +1,3 @@
-**README.md**
-
 # Electron Todo Application
 
 This is a simple Electron desktop application for managing tasks, built using React, Vite, and Redux.
