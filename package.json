@@ -2,7 +2,7 @@
   "name": "electron-forge-react-vite",
   "productName": "electron-forge-react-vite",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Todo Desktop Application",
   "main": ".vite/build/main.js",
   "scripts": {
     "start": "electron-forge start",
