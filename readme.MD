@@ -7,10 +7,7 @@ This is a simple Electron desktop application for managing tasks, built using Re
 ## Preview
 
 Watch the preview video to get a glimpse of the application:
-<Video width="320" height="240">
-    <source src="./preview/Electron Todo_Desktop_Application.mp4">
-</video>
-
+[Watch the Preview Video](./preview/Electron%20Todo_Desktop_Application.mp4)
 ## Installation
 
 To get started with this project, follow these steps:
